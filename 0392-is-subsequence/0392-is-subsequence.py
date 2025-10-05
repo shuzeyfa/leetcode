@@ -1,15 +1,17 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         
-        ind1 = ind2 = 0
-
-        while ind1 < len(t):
-            if ind2 == len(s):
-                break
+        @lru_cache(None)
+        def dp(sind, tind):
+            if sind == len(s):
+                return True
             
-            if s[ind2] == t[ind1]:
-                ind2 += 1
-                ind1 += 1
+            if tind >= len(t):
+                return False
+            
+            if s[sind] == t[tind]:
+                return dp(sind+1, tind+1)
             else:
-                ind1 += 1
-        return ind2 == len(s)
+                return dp(sind, tind+1)
+        
+        return dp(0, 0)
