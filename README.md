@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shuzeyfa/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shuzeyfa/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
+| [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/shuzeyfa/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shuzeyfa/leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
