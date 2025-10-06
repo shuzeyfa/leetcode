@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shuzeyfa/leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
+| [0263-ugly-number](https://github.com/shuzeyfa/leetcode/tree/master/0263-ugly-number) |
 ## Combinatorics
 |  |
 | ------- |
