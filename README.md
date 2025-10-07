@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/shuzeyfa/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
