@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shuzeyfa/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/shuzeyfa/leetcode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shuzeyfa/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Greedy
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
 ## Binary Tree
 |  |
@@ -122,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
