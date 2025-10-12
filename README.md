@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
+| [0328-odd-even-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Design
 |  |
 | ------- |
