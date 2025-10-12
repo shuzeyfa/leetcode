@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/shuzeyfa/leetcode/tree/master/0086-partition-list) |
 | [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/shuzeyfa/leetcode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0328-odd-even-linked-list) |
 ## Design
