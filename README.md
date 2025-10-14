@@ -117,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/shuzeyfa/leetcode/tree/master/0115-distinct-subsequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Counting
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
