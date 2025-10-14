@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shuzeyfa/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Combinatorics
 |  |
@@ -174,9 +175,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
