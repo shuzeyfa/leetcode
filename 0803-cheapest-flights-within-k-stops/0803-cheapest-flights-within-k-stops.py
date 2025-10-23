@@ -1,29 +1,30 @@
 class Solution:
     def findCheapestPrice(self, n: int, flights: List[List[int]], src: int, dst: int, k: int) -> int:
+        
         d = defaultdict(list)
         for u, v, w in flights:
-            d[u].append((v, w))
+            d[u].append((w, v))
         
-        # Min-heap: (cost, city, stops)
-        heap = [(0, src, 0)]
-        # Track minimum stops to reach each city
-        min_stops = [float('inf')] * n
-        
+        heap= [(0, src, 0)]
+        min_step = {node:float("inf") for node in range(n)}
+        min_step[src] = 0
+
         while heap:
-            cost, city, stops = heapq.heappop(heap)
+            cur, node, step = heappop(heap)
+
+            if node == dst:
+                return cur
             
-            if city == dst:
-                return cost
-            
-            if stops > k:
+            if step > k:
                 continue
-                
-            # If we've reached this city with fewer stops, skip
-            if stops >= min_stops[city]:
-                continue
-            min_stops[city] = stops
             
-            for neighbor, price in d[city]:
-                heapq.heappush(heap, (cost + price, neighbor, stops + 1))
-        
+            if step > min_step[node]:
+                continue
+
+            min_step[node] = step
+
+            for weight, nei in d[node]:
+                heappush(heap, (weight+cur, nei, step + 1))
+ 
         return -1
+ 
