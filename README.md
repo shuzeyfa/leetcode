@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shuzeyfa/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/shuzeyfa/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Union Find
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shuzeyfa/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Linked List
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shuzeyfa/leetcode/tree/master/0207-course-schedule) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shuzeyfa/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 <!---LeetCode Topics End-->
