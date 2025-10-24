@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/shuzeyfa/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shuzeyfa/leetcode/tree/master/0200-number-of-islands) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
 |  |
 | ------- |
