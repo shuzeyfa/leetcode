@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/shuzeyfa/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/shuzeyfa/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/shuzeyfa/leetcode/tree/master/0115-distinct-subsequences) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shuzeyfa/leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shuzeyfa/leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shuzeyfa/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
 ## Binary Search
@@ -268,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
