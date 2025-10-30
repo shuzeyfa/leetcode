@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shuzeyfa/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shuzeyfa/leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
