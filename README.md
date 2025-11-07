@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shuzeyfa/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shuzeyfa/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Enumeration
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 ## Bucket Sort
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
