@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/shuzeyfa/leetcode/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0744-network-delay-time](https://github.com/shuzeyfa/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [1462-course-schedule-iv](https://github.com/shuzeyfa/leetcode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shuzeyfa/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shuzeyfa/leetcode/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/shuzeyfa/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/shuzeyfa/leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shuzeyfa/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shuzeyfa/leetcode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/shuzeyfa/leetcode/tree/master/0310-minimum-height-trees) |
+| [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
 | [1462-course-schedule-iv](https://github.com/shuzeyfa/leetcode/tree/master/1462-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shuzeyfa/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
