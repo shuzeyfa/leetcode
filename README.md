@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0337-house-robber-iii](https://github.com/shuzeyfa/leetcode/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/shuzeyfa/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/shuzeyfa/leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shuzeyfa/leetcode/tree/master/0677-map-sum-pairs) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shuzeyfa/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
