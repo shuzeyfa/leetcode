@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shuzeyfa/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/shuzeyfa/leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/shuzeyfa/leetcode/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuzeyfa/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/shuzeyfa/leetcode/tree/master/0200-number-of-islands) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuzeyfa/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
