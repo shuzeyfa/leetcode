@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shuzeyfa/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1462-course-schedule-iv](https://github.com/shuzeyfa/leetcode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shuzeyfa/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shuzeyfa/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shuzeyfa/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
