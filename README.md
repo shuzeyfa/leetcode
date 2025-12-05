@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shuzeyfa/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3187-peaks-in-array](https://github.com/shuzeyfa/leetcode/tree/master/3187-peaks-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -414,8 +415,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shuzeyfa/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3187-peaks-in-array](https://github.com/shuzeyfa/leetcode/tree/master/3187-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shuzeyfa/leetcode/tree/master/0307-range-sum-query-mutable) |
+| [3187-peaks-in-array](https://github.com/shuzeyfa/leetcode/tree/master/3187-peaks-in-array) |
 <!---LeetCode Topics End-->
