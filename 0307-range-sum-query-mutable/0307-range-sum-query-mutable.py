@@ -40,7 +40,7 @@ class NumArray:
                 return self.tree[node]
             
             mid = (start + end) // 2
-            return self.query(2*node, start, mid, left, right) + self.query(2*node + 1, mid + 1, left, right)
+            return query(2*node, start, mid, left, right) + query(2*node + 1, mid + 1, end, left, right)
         return query(1, 0, self.n - 1, left, right)
         
 
