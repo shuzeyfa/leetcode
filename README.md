@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/shuzeyfa/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shuzeyfa/leetcode/tree/master/0518-coin-change-ii) |
+| [0704-binary-search](https://github.com/shuzeyfa/leetcode/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/shuzeyfa/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
+| [0704-binary-search](https://github.com/shuzeyfa/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shuzeyfa/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
