@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shuzeyfa/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shuzeyfa/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shuzeyfa/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/shuzeyfa/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shuzeyfa/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/shuzeyfa/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shuzeyfa/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
