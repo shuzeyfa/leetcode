@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/shuzeyfa/leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/shuzeyfa/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [2187-vowels-of-all-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Hash Table
@@ -391,12 +392,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/shuzeyfa/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
