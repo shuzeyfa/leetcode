@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
