@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/shuzeyfa/leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
+| [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/shuzeyfa/leetcode/tree/master/2050-count-good-numbers) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shuzeyfa/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2621-find-xor-beauty-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/shuzeyfa/leetcode/tree/master/2050-count-good-numbers) |
