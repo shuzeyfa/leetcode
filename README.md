@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/shuzeyfa/leetcode/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Union Find
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Prefix Sum
 |  |
@@ -540,9 +543,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
