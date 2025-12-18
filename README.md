@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shuzeyfa/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shuzeyfa/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/shuzeyfa/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shuzeyfa/leetcode/tree/master/0518-coin-change-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuzeyfa/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/shuzeyfa/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/shuzeyfa/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -505,11 +507,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/shuzeyfa/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shuzeyfa/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shuzeyfa/leetcode/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Quickselect
 |  |
@@ -563,5 +567,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
