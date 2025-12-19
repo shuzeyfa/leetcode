@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/shuzeyfa/leetcode/tree/master/0086-partition-list) |
 | [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
+| [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shuzeyfa/leetcode/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
+| [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0856-score-of-parentheses) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/shuzeyfa/leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
