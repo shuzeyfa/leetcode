@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shuzeyfa/leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
 | ------- |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
