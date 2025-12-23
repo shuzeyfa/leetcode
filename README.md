@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shuzeyfa/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shuzeyfa/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 ## Tree
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0856-score-of-parentheses) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/shuzeyfa/leetcode/tree/master/1598-crawler-log-folder) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/shuzeyfa/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
