@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shuzeyfa/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
+| [0860-lemonade-change](https://github.com/shuzeyfa/leetcode/tree/master/0860-lemonade-change) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shuzeyfa/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0860-lemonade-change](https://github.com/shuzeyfa/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
