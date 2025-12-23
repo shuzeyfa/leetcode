@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
+| [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/shuzeyfa/leetcode/tree/master/2050-count-good-numbers) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shuzeyfa/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0860-lemonade-change](https://github.com/shuzeyfa/leetcode/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -496,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shuzeyfa/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 ## Bucket Sort
 |  |
