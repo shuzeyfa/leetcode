@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/shuzeyfa/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0641-design-circular-deque](https://github.com/shuzeyfa/leetcode/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/shuzeyfa/leetcode/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shuzeyfa/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/shuzeyfa/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Doubly-Linked List
