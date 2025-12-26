@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/shuzeyfa/leetcode/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/shuzeyfa/leetcode/tree/master/1472-design-browser-history) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1472-design-browser-history](https://github.com/shuzeyfa/leetcode/tree/master/1472-design-browser-history) |
 | [1598-crawler-log-folder](https://github.com/shuzeyfa/leetcode/tree/master/1598-crawler-log-folder) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
