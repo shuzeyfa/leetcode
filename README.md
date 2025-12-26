@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shuzeyfa/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shuzeyfa/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shuzeyfa/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 ## Divide and Conquer
 |  |
 | ------- |
