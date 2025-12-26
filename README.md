@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shuzeyfa/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/shuzeyfa/leetcode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/shuzeyfa/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
