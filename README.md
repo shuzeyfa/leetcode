@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/shuzeyfa/leetcode/tree/master/1472-design-browser-history) |
+| [1480-running-sum-of-1d-array](https://github.com/shuzeyfa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/shuzeyfa/leetcode/tree/master/1598-crawler-log-folder) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/shuzeyfa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
