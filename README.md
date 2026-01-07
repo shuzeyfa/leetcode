@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shuzeyfa/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/shuzeyfa/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shuzeyfa/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/shuzeyfa/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/shuzeyfa/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/shuzeyfa/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shuzeyfa/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/shuzeyfa/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0206-reverse-linked-list) |
