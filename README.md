@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/shuzeyfa/leetcode/tree/master/0860-lemonade-change) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shuzeyfa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/shuzeyfa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
