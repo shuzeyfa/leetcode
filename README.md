@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/shuzeyfa/leetcode/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/shuzeyfa/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1307-ugly-number-iii](https://github.com/shuzeyfa/leetcode/tree/master/1307-ugly-number-iii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/shuzeyfa/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shuzeyfa/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shuzeyfa/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuzeyfa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/shuzeyfa/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/shuzeyfa/leetcode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/shuzeyfa/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/shuzeyfa/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/0876-middle-of-the-linked-list) |
