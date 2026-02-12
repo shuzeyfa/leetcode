@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shuzeyfa/leetcode/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shuzeyfa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shuzeyfa/leetcode/tree/master/0567-permutation-in-string) |
 | [0676-implement-magic-dictionary](https://github.com/shuzeyfa/leetcode/tree/master/0676-implement-magic-dictionary) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/shuzeyfa/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/shuzeyfa/leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shuzeyfa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shuzeyfa/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shuzeyfa/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/shuzeyfa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shuzeyfa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shuzeyfa/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/shuzeyfa/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
