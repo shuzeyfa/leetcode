@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/shuzeyfa/leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shuzeyfa/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shuzeyfa/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Tree
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Bucket Sort
 |  |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Queue
 |  |
 | ------- |
