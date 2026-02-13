@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shuzeyfa/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shuzeyfa/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/shuzeyfa/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0986-interval-list-intersections](https://github.com/shuzeyfa/leetcode/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/shuzeyfa/leetcode/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Bucket Sort
 |  |
 | ------- |
