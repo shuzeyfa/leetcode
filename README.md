@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shuzeyfa/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/shuzeyfa/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/shuzeyfa/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shuzeyfa/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/shuzeyfa/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/shuzeyfa/leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shuzeyfa/leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0274-h-index](https://github.com/shuzeyfa/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shuzeyfa/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/shuzeyfa/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
