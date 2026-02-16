@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/shuzeyfa/leetcode/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuzeyfa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
+| [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/shuzeyfa/leetcode/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/shuzeyfa/leetcode/tree/master/1029-two-city-scheduling) |
+| [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shuzeyfa/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/shuzeyfa/leetcode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
+| [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
