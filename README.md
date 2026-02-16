@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shuzeyfa/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2381-shifting-letters-ii](https://github.com/shuzeyfa/leetcode/tree/master/2381-shifting-letters-ii) |
+| [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2381-shifting-letters-ii](https://github.com/shuzeyfa/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Hash Table
 |  |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shuzeyfa/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Bucket Sort
 |  |
