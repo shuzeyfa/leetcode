@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/shuzeyfa/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/shuzeyfa/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shuzeyfa/leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/shuzeyfa/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0064-minimum-path-sum) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuzeyfa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shuzeyfa/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shuzeyfa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/shuzeyfa/leetcode/tree/master/0093-restore-ip-addresses) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuzeyfa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/shuzeyfa/leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/shuzeyfa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/shuzeyfa/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/shuzeyfa/leetcode/tree/master/0146-lru-cache) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shuzeyfa/leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shuzeyfa/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shuzeyfa/leetcode/tree/master/0179-largest-number) |
