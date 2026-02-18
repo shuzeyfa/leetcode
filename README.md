@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2460-apply-operations-to-an-array](https://github.com/shuzeyfa/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shuzeyfa/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/shuzeyfa/leetcode/tree/master/0969-pancake-sorting) |
 | [0986-interval-list-intersections](https://github.com/shuzeyfa/leetcode/tree/master/0986-interval-list-intersections) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/shuzeyfa/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## String
 |  |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/shuzeyfa/leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/shuzeyfa/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
