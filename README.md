@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2413-smallest-even-multiple](https://github.com/shuzeyfa/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2469-convert-the-temperature](https://github.com/shuzeyfa/leetcode/tree/master/2469-convert-the-temperature) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/shuzeyfa/leetcode/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2621-find-xor-beauty-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
