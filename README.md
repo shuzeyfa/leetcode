@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shuzeyfa/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shuzeyfa/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shuzeyfa/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/shuzeyfa/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shuzeyfa/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/shuzeyfa/leetcode/tree/master/0174-dungeon-game) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/shuzeyfa/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shuzeyfa/leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/shuzeyfa/leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/shuzeyfa/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/shuzeyfa/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shuzeyfa/leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/shuzeyfa/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/shuzeyfa/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Radix Sort
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shuzeyfa/leetcode/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/shuzeyfa/leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
