@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shuzeyfa/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1929-concatenation-of-array](https://github.com/shuzeyfa/leetcode/tree/master/1929-concatenation-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-count-special-quadruplets](https://github.com/shuzeyfa/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shuzeyfa/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -133,7 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/shuzeyfa/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shuzeyfa/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shuzeyfa/leetcode/tree/master/0045-jump-game-ii) |
@@ -405,7 +405,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/shuzeyfa/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shuzeyfa/leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shuzeyfa/leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shuzeyfa/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -440,7 +439,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shuzeyfa/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0005-longest-palindromic-substring](https://github.com/shuzeyfa/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/shuzeyfa/leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -518,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/shuzeyfa/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1726-tuple-with-same-product](https://github.com/shuzeyfa/leetcode/tree/master/1726-tuple-with-same-product) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/shuzeyfa/leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1995-count-special-quadruplets](https://github.com/shuzeyfa/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shuzeyfa/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2488-count-subarrays-with-median-k](https://github.com/shuzeyfa/leetcode/tree/master/2488-count-subarrays-with-median-k) |
@@ -541,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/shuzeyfa/leetcode/tree/master/0204-count-primes) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/shuzeyfa/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shuzeyfa/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-count-special-quadruplets](https://github.com/shuzeyfa/leetcode/tree/master/1995-count-special-quadruplets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shuzeyfa/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
 |  |
