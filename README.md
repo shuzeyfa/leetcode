@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/shuzeyfa/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3187-peaks-in-array](https://github.com/shuzeyfa/leetcode/tree/master/3187-peaks-in-array) |
+| [3206-alternating-groups-i](https://github.com/shuzeyfa/leetcode/tree/master/3206-alternating-groups-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/shuzeyfa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/shuzeyfa/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3206-alternating-groups-i](https://github.com/shuzeyfa/leetcode/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
