@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/shuzeyfa/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/shuzeyfa/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/shuzeyfa/leetcode/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/shuzeyfa/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/shuzeyfa/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/shuzeyfa/leetcode/tree/master/0093-restore-ip-addresses) |
