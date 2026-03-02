@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/shuzeyfa/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/shuzeyfa/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/shuzeyfa/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/shuzeyfa/leetcode/tree/master/0670-maximum-swap) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/shuzeyfa/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shuzeyfa/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/shuzeyfa/leetcode/tree/master/0402-remove-k-digits) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/shuzeyfa/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0670-maximum-swap](https://github.com/shuzeyfa/leetcode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/shuzeyfa/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shuzeyfa/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/shuzeyfa/leetcode/tree/master/0781-rabbits-in-forest) |
