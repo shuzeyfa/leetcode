@@ -496,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/shuzeyfa/leetcode/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
 ## Hash Table
 |  |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/shuzeyfa/leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/shuzeyfa/leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shuzeyfa/leetcode/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shuzeyfa/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/shuzeyfa/leetcode/tree/master/1598-crawler-log-folder) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shuzeyfa/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/shuzeyfa/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
