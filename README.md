@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shuzeyfa/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shuzeyfa/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/shuzeyfa/leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Tree
 |  |
 | ------- |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shuzeyfa/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2460-apply-operations-to-an-array](https://github.com/shuzeyfa/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2938-separate-black-and-white-balls](https://github.com/shuzeyfa/leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/shuzeyfa/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2938-separate-black-and-white-balls](https://github.com/shuzeyfa/leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
