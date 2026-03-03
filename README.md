@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shuzeyfa/leetcode/tree/master/0856-score-of-parentheses) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shuzeyfa/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/shuzeyfa/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shuzeyfa/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/shuzeyfa/leetcode/tree/master/1598-crawler-log-folder) |
 | [1849-splitting-a-string-into-descending-consecutive-values](https://github.com/shuzeyfa/leetcode/tree/master/1849-splitting-a-string-into-descending-consecutive-values) |
@@ -837,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shuzeyfa/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/shuzeyfa/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/shuzeyfa/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shuzeyfa/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
