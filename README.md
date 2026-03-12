@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/shuzeyfa/leetcode/tree/master/0841-keys-and-rooms) |
 | [0851-loud-and-rich](https://github.com/shuzeyfa/leetcode/tree/master/0851-loud-and-rich) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shuzeyfa/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shuzeyfa/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shuzeyfa/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
 | [0904-fruit-into-baskets](https://github.com/shuzeyfa/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shuzeyfa/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shuzeyfa/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shuzeyfa/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
@@ -1019,10 +1021,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shuzeyfa/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shuzeyfa/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shuzeyfa/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/shuzeyfa/leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
