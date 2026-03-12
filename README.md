@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/shuzeyfa/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1331-rank-transform-of-an-array](https://github.com/shuzeyfa/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/shuzeyfa/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/shuzeyfa/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/shuzeyfa/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shuzeyfa/leetcode/tree/master/0841-keys-and-rooms) |
 | [0869-similar-string-groups](https://github.com/shuzeyfa/leetcode/tree/master/0869-similar-string-groups) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1462-course-schedule-iv](https://github.com/shuzeyfa/leetcode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shuzeyfa/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/shuzeyfa/leetcode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0867-transpose-matrix](https://github.com/shuzeyfa/leetcode/tree/master/0867-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/shuzeyfa/leetcode/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shuzeyfa/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shuzeyfa/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shuzeyfa/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shuzeyfa/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/shuzeyfa/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1462-course-schedule-iv](https://github.com/shuzeyfa/leetcode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/shuzeyfa/leetcode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shuzeyfa/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1001,4 +1005,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shuzeyfa/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shuzeyfa/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
