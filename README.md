@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shuzeyfa/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shuzeyfa/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/shuzeyfa/leetcode/tree/master/2126-destroying-asteroids) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shuzeyfa/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2262-solving-questions-with-brainpower](https://github.com/shuzeyfa/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2381-shifting-letters-ii](https://github.com/shuzeyfa/leetcode/tree/master/2381-shifting-letters-ii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2126-destroying-asteroids](https://github.com/shuzeyfa/leetcode/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/shuzeyfa/leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shuzeyfa/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2864-maximum-odd-binary-number](https://github.com/shuzeyfa/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/shuzeyfa/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shuzeyfa/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/shuzeyfa/leetcode/tree/master/2126-destroying-asteroids) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/shuzeyfa/leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2418-sort-the-people](https://github.com/shuzeyfa/leetcode/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/shuzeyfa/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
