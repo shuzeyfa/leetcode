@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/shuzeyfa/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shuzeyfa/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/shuzeyfa/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1387-sort-integers-by-the-power-value](https://github.com/shuzeyfa/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shuzeyfa/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shuzeyfa/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/shuzeyfa/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -804,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/shuzeyfa/leetcode/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shuzeyfa/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shuzeyfa/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/shuzeyfa/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/shuzeyfa/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/shuzeyfa/leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1833-maximum-ice-cream-bars](https://github.com/shuzeyfa/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shuzeyfa/leetcode/tree/master/0070-climbing-stairs) |
+| [1387-sort-integers-by-the-power-value](https://github.com/shuzeyfa/leetcode/tree/master/1387-sort-integers-by-the-power-value) |
 ## String Matching
 |  |
 | ------- |
